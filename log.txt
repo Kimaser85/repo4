@@ -1,0 +1,17 @@
+commit 85b5071f5d45f17fe6a23da32c8982df60aa7816
+Author: kimaser85 <kimaser85@gmail.com>
+Date:   Mon Dec 20 17:50:31 2021 +0300
+
+    deleted 1.txt
+
+commit 98621fa75068d11fd187da6490acb5f9acaa109d
+Author: kimaser85 <kimaser85@gmail.com>
+Date:   Mon Dec 20 17:42:16 2021 +0300
+
+    1
+
+commit a30ffc52b1349e4ede97149214cab594a3f2d05f
+Author: kimaser85 <kimaser85@gmail.com>
+Date:   Mon Dec 20 17:34:11 2021 +0300
+
+    Added files
